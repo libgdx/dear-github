@@ -58,6 +58,7 @@ Signed,
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
 - Mario Zechner ([@badlogicgames](https://github.com/badlogic)), maintainer of libGDX
+- Nathan Sweet ([@NathanSweet](https://github.com/NathanSweet)), maintainer of Spine, Kryo, libGDX, [@EsotericSoftware](https://github.com/EsotericSoftware)
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
 - Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
