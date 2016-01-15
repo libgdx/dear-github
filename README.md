@@ -65,6 +65,7 @@ Signed,
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
 - Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus)), maintainer of Yeoman
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
+- David Saltares (@saltares)(https://github.com/saltares), maintainer of Ashley
 
 **Are you the maintainer of a project on GitHub and want to sign as well? Please open a pull request**
 
